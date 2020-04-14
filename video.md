@@ -14,3 +14,4 @@ partners: []
 show_staff: false
 
 ---
+The page exists but has no content and can't appear in the browser
